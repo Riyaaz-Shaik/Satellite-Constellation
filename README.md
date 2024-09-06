@@ -1,0 +1,1 @@
+This code finds out the position of satellites using orbital parameters taken from YUMA ALMANAC - US COAST GUARD SITE for the time duration of 24 hours. This uses Newton-Raphson approach to find out the eccentric anomaly by iterating. Finally, satellite constellation was plotted.
